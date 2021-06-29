@@ -1,0 +1,2 @@
+# Agricultural-Intruder-Detection
+This project was built with intent of monitoring farm lands. since theft and animal invasion in farms happens very often. This project helps the farmer with remote monitoring, time saving as well as time energy efficient method for farmer. hardware , software used along with cost estimation and working is provided in the ppt link below: https://www.canva.com/design/DAEiMkb_8bA/Cvm-J4kQfZ7j1TMzE2KgRw/view?utm_content=DAEiMkb_8bA&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=homepage_design_menu
